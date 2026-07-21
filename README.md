@@ -4,6 +4,8 @@ An interactive 3D visualizer for classic data structures — Stack, Queue, Linke
 
 Pick a structure from the sidebar, trigger operations (`push`, `pop`, `insert`, `search`, ...), and watch nodes animate to their new positions in a 3D scene. Each view pairs the visualization with a pseudocode panel (method signatures + Big-O) and a running operation log, so you can see the call, its effect, and the code side by side.
 
+**Live demo:** [datastructures-3d.vercel.app](https://datastructures-3d.vercel.app)
+
 ## Getting started
 
 ```
